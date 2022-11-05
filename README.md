@@ -11,7 +11,7 @@ BOM
 | | M2x6 BHCS | 20 | |
 | | M2x8 SHCS | 30 | |
 | | M2 Nut | 30 | |
-| | M2x10 Self Tapping Screws for Plastic | 16 | |
+| | M2x10 Self Tapping Screws for Plastic | 6 | |
 | | M3x6 BHCS | 83 | Some may be substituted for M3x8 |
 | | M3x8 BHCS | 55 | |
 | | M3x10 BHCS | 54 | Some may be substituted for M3x8 |
