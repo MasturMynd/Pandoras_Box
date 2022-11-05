@@ -70,6 +70,7 @@ BOM
 | | GT2 20T (5mm ID 6mm W) | 5 | |
 | | F623-RS Bearing | 42 | |
 | | GE5C Spherical Bearing	 | 3 | |
+| | 5x30mm Shaft (Length varies by setup) | 1 | |
 | Buildplate | | |
 | | M4 Knurled Nut | 3 | |
 | | Spring Steel Flex Buildplate 120x120mm (OPTIONAL) | 1 | |
