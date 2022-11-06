@@ -1,5 +1,7 @@
 # Pandoras_Box
 
+This has been a labor of love and many curse words. Pandora's Box is an expansion on the Pandora gantry mod for the Voron V0, incorporating a restructured frame and a triple belted bed. This repo is currently undergoing development and a manual is still in the works. I will also have build guides on my YouTube channel if you want to get started before the manual is ready.
+
 BOM
 ---
 | Category | Part Description | Qty | Notes |
