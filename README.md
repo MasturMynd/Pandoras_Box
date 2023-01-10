@@ -82,7 +82,7 @@ BOM
 | Panels | | |
 | | Rear Panel - 212x332x3mm | 1 | |
 | | Deck Panel 3mm thick (See DXF) | 1 | |
-| | Acrylic Sheet Clear - 212x332x3mm | 1 | |
+| | Acrylic Sheet Clear - 212x332x3mm | 3 | |
 | | Acrylic Sheet Clear - 212x212x3mm | 1 | |
 | | Single Sided Foam Tape 1mm Thick (5m) | 1 | |
 | Bowden | | |
