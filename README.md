@@ -36,7 +36,7 @@ BOM
 | | M3x8 SHCS | 36 | |
 | | M3x10 SHCS | 51 | |
 | | M3x12 SHCS | 5 | |
-| | M3x14 SHCS | 5 | Used only with Formbot build plates |
+| | M3x14 SHCS | 3 | Used only with Formbot build plates |
 | | M3x16 SHCS | 7 | |
 | | M3x20 SHCS | 4 | |
 | | M3x25 SHCS | 6 | |
