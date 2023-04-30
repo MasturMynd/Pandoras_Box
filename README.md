@@ -57,7 +57,7 @@ BOM
 | | NEMA17 Stepper Motor 45Ncm | 3 | Z Steppers - NEMA14 mounting also available |
 | | NEMA14 Stepper Motor 40Ncm | 2 | |
 | | MicroSD Card | 1 | |
-| | Meanwell LRS-150-24 | 1 | |
+| | Meanwell LRS-150-24 | 1 | UHP-200-24 is a stronger alternative |
 | | IEC320 C14 inlet | 1 | |
 | | Hotend thermistor | 1 | |
 | | Hotend | 1 | |
@@ -94,7 +94,7 @@ BOM
 | | Silicone DC 24V Heater 100x100mm 60W | 1 | |
 | | PEI + 3M 468MP (200MP) | 1 | |
 | | MIC6 1/4" Plate - 120x120mm | 1 | |
-| Panels | | Full panels kit available at [DLLPDF](https://dllpdf.com/pandoras-box-panels)! |
+| Panels | | | Full panels kit available at [DLLPDF](https://dllpdf.com/pandoras-box-panels)! |
 | | Rear Panel 3mm thick (See DXF) | 1 | |
 | | Deck Panel 3mm thick (See DXF) | 1 | |
 | | Acrylic Sheet Clear - 212x332x3mm | 3 | |
