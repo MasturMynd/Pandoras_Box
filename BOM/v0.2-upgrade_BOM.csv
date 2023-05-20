@@ -1,52 +1,52 @@
 Category,Part Description,QTY,Notes
 ---,---,---,---
 Filament,Estimates based on the initial release,
-,Primary Color,600g
-,Accent Color,200g
-Fasteners,Listed quantities are minimum. Buy extra!,
-,M2x6 SHCS,2
-,M2x10 Self Tapping Screws for Plastic,9
-,M3x6 BHCS,6
-,M3x16 BHCS,3
-,M3x8 SHCS,36
-,M3x10 SHCS,51
-,M3x12 SHCS,5
+,Primary Color,600g,
+,Accent Color,200g,
+Fasteners,,,Listed quantities are minimum. Buy extra!,
+,M2x6 SHCS,2,
+,M2x10 Self Tapping Screws for Plastic,9,
+,M3x6 BHCS,6,
+,M3x16 BHCS,3,
+,M3x8 SHCS,36,
+,M3x10 SHCS,51,
+,M3x12 SHCS,5,
 ,M3x14 SHCS,3,Only for Formbot build plates
-,M3x16 SHCS,7
-,M3x20 SHCS,4
-,M3x25 SHCS,6
-,M3x30 SHCS,4
-,M3x35 SHCS,2
-,M3 Nut,8
-,M3 Brass heatstake inserts - short M3x5x4,12
-,M5x16 BHCS,4
-,M5 Nut,4
-Frame,,
-,Makerbeam XL 15x15 350mm,4
-Electronics,,
-,Raspberry Pi Compute Module 4,1
-,Omron Mouse Button - Micro Switch,1
-,NEMA17 Stepper Motor 45Ncm,3
-,Bigtreetech Manta M8P,1
-,4010 Axial fan,2
-Cables,,
-,WAGO 221-412 (OPTIONAL),7
-Motion,,
-,MGN9H Linear Rail with Carriage - 200mm,1
-,GT2 Open Belt (6mm W) - 4000mm,1
-,GT2 20T (5mm ID 6mm W),3
-,GT2 20T (5mm ID 6mm W) Deflanged,1
-,F623-RS Bearing,18
-,KGLM-03 Spherical Bearing,3
-,5x25mm Shaft (Length varies by setup),1
-Buildplate,,
-,M4 Knurled Nut,3
-Panels,,
-,Rear Panel 3mm thick (See DXF),1
-,Deck Panel 3mm thick (See DXF),1
-,Acrylic Sheet Clear - 212x332x3mm,3
-,Acrylic Sheet Clear - 212x212x3mm,1
-,Single Sided Foam Tape 3mm Thick (5m),1
-Misc.,,
-,Rubber Foot (1.5x.75in - 38x19mm),4
-,6mm x 3mm Round Neodymium Magnets,10
+,M3x16 SHCS,7,
+,M3x20 SHCS,4,
+,M3x25 SHCS,6,
+,M3x30 SHCS,4,
+,M3x35 SHCS,2,
+,M3 Nut,8,
+,M3 Brass heatstake inserts,12,short M3x5x4
+,M5x16 BHCS,4,
+,M5 Nut,4,
+Frame,,,
+,Makerbeam XL 15x15 350mm,4,
+Electronics,,,
+,Raspberry Pi Compute Module 4,1,
+,Omron Mouse Button - Micro Switch,1,
+,NEMA17 Stepper Motor 45Ncm,3,
+,Bigtreetech Manta M8P,1,
+,4010 Axial fan,2,
+Cables,,,
+,WAGO 221-412 (OPTIONAL),7,
+Motion,,,
+,MGN9H Linear Rail with Carriage - 200mm,1,
+,GT2 Open Belt (6mm W) - 4000mm,1,
+,GT2 20T (5mm ID 6mm W),3,
+,GT2 20T (5mm ID 6mm W) Deflanged,1,
+,F623-RS Bearing,18,
+,KGLM-03 Spherical Bearing,3,
+,5x25mm Shaft (Length varies by setup),1,
+Buildplate,,,
+,M4 Knurled Nut,3,
+Panels,,,
+,Rear Panel 3mm thick (See DXF),1,
+,Deck Panel 3mm thick (See DXF),1,
+,Acrylic Sheet Clear - 212x332x3mm,3,
+,Acrylic Sheet Clear - 212x212x3mm,1,
+,Single Sided Foam Tape 3mm Thick (5m),1,
+Misc.,,,
+,Rubber Foot (1.5x.75in - 38x19mm),4,
+,6mm x 3mm Round Neodymium Magnets,10,
