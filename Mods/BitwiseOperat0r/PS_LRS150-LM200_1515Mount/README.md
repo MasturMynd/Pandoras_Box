@@ -1,4 +1,5 @@
-Power supply mount for Meanwell LRS-150 or Mornsun LM200
+Power supply mount for Meanwell LRS-150 or Mornsun LM200.
+
 This is for standard Pandora's Box(NOT the +50)
 
 I might want to go back and add some cable management to the mounts
