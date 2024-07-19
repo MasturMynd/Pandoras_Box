@@ -47,7 +47,7 @@ BOM
 | | M3 Brass heatstake inserts - short M3x5x4 | 62 | |
 | | M5x16 BHCS | 4 | |
 | | M5 Nut | 4 | |
-| Frame | | | Full frame kit by [DFH]([https://dllpdf.com/pandoras-box-frame](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-frame-kit))! |
+| Frame | | | Full frame kit by [DFH]([https://dllpdf.com/pandoras-box-frame](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-frame-kit)! |
 | | | | Full frame kit available at [DLLPDF](https://dllpdf.com/pandoras-box-frame)! |
 | | Makerbeam XL 15x15 350mm | 4 | |
 | | Makerbeam XL 15x15 200mm | 13 | |
@@ -80,8 +80,8 @@ BOM
 | | High Flex Wire 20gauge 10ft | 1 | |
 | | 7mm x 7mm cable chain (less than 1/2 meter needed) | 1 | |
 | | WAGO 221-412 (OPTIONAL) | 7 | |
-| Motion | | Full Linear Rail Set by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-linear-rails-kit) |
-| | | Motion Kit by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-motion-kit) |
+| Motion | | | Full Linear Rail Set by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-linear-rails-kit) |
+| | | | Motion Kit by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-motion-kit) |
 | | MGN7H Linear Rail with Carriage - 150mm | 5 | |
 | | MGN9H Linear Rail with Carriage - 200mm | 1 | |
 | | GT2 Open Belt (6mm W) - 4000mm | 1 | |
