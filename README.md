@@ -19,7 +19,7 @@ BOM
 | Filament | Estimates based on the initial release | | |
 | | Primary Color | 600g | |
 | | Accent Color | 200g | |
-| Fasteners | Listed quantities are minimum, buy extra! | | |
+| Fasteners | Listed quantities are minimum, buy extra! | | Fastener Kit by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-fastener-kit) |
 | | M2x6 FHCS | 9 | |
 | | M2x6 SHCS | 62 | |
 | | M2 Nut | 50 | |
@@ -47,11 +47,12 @@ BOM
 | | M3 Brass heatstake inserts - short M3x5x4 | 62 | |
 | | M5x16 BHCS | 4 | |
 | | M5 Nut | 4 | |
-| Frame | | | Full frame kit available at [DLLPDF](https://dllpdf.com/pandoras-box-frame)! |
+| Frame | | | Full frame kit by [DFH]([https://dllpdf.com/pandoras-box-frame](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-frame-kit))! |
+| | | | Full frame kit available at [DLLPDF](https://dllpdf.com/pandoras-box-frame)! |
 | | Makerbeam XL 15x15 350mm | 4 | |
 | | Makerbeam XL 15x15 200mm | 13 | |
 | | Makerbeam XL 15x15 100mm | 3 | |
-| Electronics | | |
+| Electronics | | Stepper Motor Bundle by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-motors-kit) |
 | | Raspberry Pi Compute Module 4 | 1 | Alternative: Bigtreetech CB1 |
 | | Omron Mouse Button - Micro Switch | 2 | |
 | | NEMA17 Stepper Motor 45Ncm | 3 | Z Steppers - NEMA14 mounting also available |
@@ -79,7 +80,8 @@ BOM
 | | High Flex Wire 20gauge 10ft | 1 | |
 | | 7mm x 7mm cable chain (less than 1/2 meter needed) | 1 | |
 | | WAGO 221-412 (OPTIONAL) | 7 | |
-| Motion | | |
+| Motion | | Full Linear Rail Set by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-linear-rails-kit) |
+| | | Motion Kit by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-motion-kit) |
 | | MGN7H Linear Rail with Carriage - 150mm | 5 | |
 | | MGN9H Linear Rail with Carriage - 200mm | 1 | |
 | | GT2 Open Belt (6mm W) - 4000mm | 1 | |
@@ -94,7 +96,8 @@ BOM
 | | Silicone DC 24V Heater 100x100mm 60W | 1 | |
 | | PEI + 3M 468MP (200MP) | 1 | |
 | | MIC6 1/4" Plate - 120x120mm | 1 | |
-| Panels | | | Full panels kit available at [DLLPDF](https://dllpdf.com/pandoras-box-panels)! |
+| Panels | | | Full Acrylic / ACM kit By [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-panels-kit)! |
+| | | | Full panels kit available at [DLLPDF](https://dllpdf.com/pandoras-box-panels)! |
 | | Rear Panel 3mm thick (See DXF) | 1 | |
 | | Deck Panel 3mm thick (See DXF) | 1 | |
 | | Acrylic Sheet Clear - 212x332x3mm | 3 | |
