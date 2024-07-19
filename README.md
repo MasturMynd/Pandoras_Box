@@ -52,7 +52,7 @@ BOM
 | | Makerbeam XL 15x15 350mm | 4 | |
 | | Makerbeam XL 15x15 200mm | 13 | |
 | | Makerbeam XL 15x15 100mm | 3 | |
-| Electronics | | Stepper Motor Bundle by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-motors-kit) |
+| Electronics | | | Stepper Motor Bundle by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-motors-kit) |
 | | Raspberry Pi Compute Module 4 | 1 | Alternative: Bigtreetech CB1 |
 | | Omron Mouse Button - Micro Switch | 2 | |
 | | NEMA17 Stepper Motor 45Ncm | 3 | Z Steppers - NEMA14 mounting also available |
