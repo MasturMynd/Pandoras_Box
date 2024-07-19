@@ -47,7 +47,7 @@ BOM
 | | M3 Brass heatstake inserts - short M3x5x4 | 62 | |
 | | M5x16 BHCS | 4 | |
 | | M5 Nut | 4 | |
-| Frame | | | Full frame kit by [DFH]([https://dllpdf.com/pandoras-box-frame](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-frame-kit)! |
+| Frame | | | Full frame kit by [DFH](https://dfh.fm/collections/pandoras-box-by-masturmynd/products/pandoras-box-by-masturmynd-frame-kit)! |
 | | | | Full frame kit available at [DLLPDF](https://dllpdf.com/pandoras-box-frame)! |
 | | Makerbeam XL 15x15 350mm | 4 | |
 | | Makerbeam XL 15x15 200mm | 13 | |
